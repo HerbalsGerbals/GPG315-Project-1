@@ -1,0 +1,7 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="True">
+    <ui:VisualElement name="ItemRow" style="flex-grow: 1; justify-content: center; height: 35px;">
+        <ui:VisualElement name="Row" style="flex-grow: 1; flex-direction: row; align-items: center;">
+            <ui:Label text="Unkown" name="Name" style="flex-grow: 1; padding-top: 5px; padding-bottom: 0; padding-left: 0;" />
+        </ui:VisualElement>
+    </ui:VisualElement>
+</ui:UXML>

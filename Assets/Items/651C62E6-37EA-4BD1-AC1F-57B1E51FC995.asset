@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7afe160712a308341bd044246fb64325, type: 3}
+  m_Name: 651C62E6-37EA-4BD1-AC1F-57B1E51FC995
+  m_EditorClassIdentifier: 
+  ID: 651C62E6-37EA-4BD1-AC1F-57B1E51FC995
+  seedName: Carrot Seeds
+  description: A Bag Of Carrot Seeds
+  growTime: 4
+  cropAmount: 6
+  sellPrice: 20
+  hungerAmount: 15

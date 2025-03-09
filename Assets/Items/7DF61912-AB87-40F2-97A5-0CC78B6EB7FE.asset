@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7afe160712a308341bd044246fb64325, type: 3}
+  m_Name: 7DF61912-AB87-40F2-97A5-0CC78B6EB7FE
+  m_EditorClassIdentifier: 
+  ID: 7DF61912-AB87-40F2-97A5-0CC78B6EB7FE
+  seedName: Apple Seeds
+  description: A Bag Of Apple Seeds
+  growTime: 8
+  cropAmount: 4
+  sellPrice: 50
+  hungerAmount: 30
